@@ -8,9 +8,9 @@ int main(){
 	int acertos = 0, erros = 0;
 	
 	printf("------------------------Quiz de revisão-----------------------\n");
-		printf("\n");
+	printf("\n");
 	
-	printf("Respondas as questões de multipla escolha abaixo:\n");
+	printf("Respondas as questões de múltipla escolha abaixo:\n");
 	
 	//Questão 1:
 	printf("\n Questão 1: Qual é a sintaxe correta para declarar uma variável inteira em C?\n");
